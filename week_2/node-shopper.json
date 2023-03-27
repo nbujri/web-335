@@ -1,0 +1,24 @@
+{
+  "CUSTOMER": {
+    "_id": 1,
+    "firstName": "john",
+    "lastName": "doe",
+    "dateOfBirth": "01/01/1990",
+    "username": "jDoe",
+    "invoices": []
+  },
+  "INVOICE": {
+    "_id": 2,
+    "createDate": "03/26/2023",
+    "shipDate": "03/26/2023",
+    "subtotal": 50,
+    "customers": [],
+    "lineItems": []
+  },
+  "LINEITEM": {
+    "_id": 3,
+    "productName": "NoSQL Distilled",
+    "price": 50,
+    "qty": 1
+  }
+}

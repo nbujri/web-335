@@ -1,0 +1,23 @@
+{
+  "STUDENT": {
+    "studentId": 1,
+    "firstName": "john",
+    "lastName": "doe",
+    "enrollments": [],
+    "courses": []
+  },
+  "ENROLLMENT": {
+    "term": "summer",
+    "gpa": 3.0,
+    "startDate": "03/01/2023",
+    "endDate": "05/01/2023",
+    "courses": []
+  },
+  "COURSE": {
+    "courseId": 2,
+    "description": "WEB 335",
+    "instructor": "Richard Krasso",
+    "score": 90,
+    "letterGrade": "A"
+  }
+}
