@@ -1,0 +1,21 @@
+[
+  {
+    "USER": {
+      "user_name": "test",
+      "password": "fakepassword",
+      "email": "test@mail.com",
+      "roles": [
+        {
+          "admin": {
+            "permissions": [
+              {
+                "create_users": true,
+                "delete_users": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

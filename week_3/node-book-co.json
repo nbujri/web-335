@@ -1,0 +1,28 @@
+[
+  {
+    "Author": {
+      "firstName": "john",
+      "lastName": "doe",
+      "phone": "(336) 111-2222",
+      "email": "jdoe@mail.com",
+      "publishers": [
+        {
+          "Publisher": {
+            "name": "Some Publisher",
+            "code": 123,
+            "address": "123 South Street",
+            "booksPublished": [
+              {
+                "Book": {
+                  "isbn": "11223344",
+                  "name": "cool book",
+                  "price": 19.99
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
